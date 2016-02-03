@@ -1,0 +1,17 @@
+Formats:
+0: YUYV ( YUYV )
+Sizes:
+0: 320x240
+1: 640x480
+Properties:
+0: Brightness
+1: Contrast
+2: Auto White Balance
+3: Exposure
+4: Auto Gain
+5: Main Gain
+6: HFlip
+7: VFlip
+8: Light Frequency Filter
+9: Sharpness
+10: Auto Exposure

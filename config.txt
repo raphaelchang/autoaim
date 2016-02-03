@@ -1,0 +1,14 @@
+Brightness: 0
+Contrast: 50
+Exposure: 2
+Auto Gain: 0
+Autogain: 0
+Main Gain: 0
+HFlip: 0
+VFlip: 0
+Light Frequency Filter: 0
+Sharpness: 0
+Auto Exposure: 0
+frame rate: 125
+Saturation: 0
+Hue: 0
